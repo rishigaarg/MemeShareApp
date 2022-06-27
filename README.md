@@ -1,1 +1,1 @@
-#This is MemeShareApp created using kotlin in Android Studio 
+This is MemeShareApp created using kotlin in Android Studio 
